@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Set theory and probability theory are foundational statistical concepts. In this lesson you'll learn about the more formal ways to represent statistical distributions.
+`Set theory` and `probability theory` are foundational statistical concepts. In this lesson you'll learn about the more formal ways to represent statistical distributions.
 
 ## Descriptive to Inferential Statistics
 
